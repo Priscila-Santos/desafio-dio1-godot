@@ -12,9 +12,9 @@
 // Ao final deve se exibir uma mensagem:
 // "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-var nomeDoHeroi = "Flash";
-var xpDoHeroi = 1000;
-var nivelDoHeroi;
+let nomeDoHeroi = "Flash";
+let xpDoHeroi = 1000;
+let nivelDoHeroi;
 
 if (xpDoHeroi < 1000) {
    nivelDoHeroi = "Ferro";    
